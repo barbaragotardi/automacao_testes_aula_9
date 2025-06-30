@@ -1,5 +1,10 @@
 {
   "devDependencies": {
-    "mocha": "^11.5.0"
-  }
+    "mocha": "^11.7.1"
+  },
+  "scripts": {
+    "test": "mocha trabalho_final/trabalho-final.js"
 }
+
+}
+
